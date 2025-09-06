@@ -1,6 +1,6 @@
 USELESS BUILD INSTRUCTIONS:
 
-  You need to place raylib static library "libraylib.a" and its header file "raylib.h" in the raylib folder. (raylib v5.5 is preferred)
+  Create a folder named "raylib" and place the raylib static library "libraylib.a" and its header file "raylib.h" inside it. (raylib v5.5 is preferred)
   
   Here is the link of the github repo https://github.com/raysan5/raylib
 
