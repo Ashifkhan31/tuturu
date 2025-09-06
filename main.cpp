@@ -292,7 +292,7 @@ void playMusicIfNonePlaying(std::vector<Sound>& array)
 
 int main()
 {
-    InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "Tetromino");
+    InitWindow(SCREEN_WIDTH, SCREEN_HEIGHT, "tuturu");
 
     InitAudioDevice();
 
