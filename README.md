@@ -15,6 +15,6 @@ CREDITS:
 
   1. BLUE SEA OF 53 MINUTES - Retrospective 53 Minutes
   2. FOREST OF DOLLS - Dolls In Pseudo Paradise
-  3. DANCE OF WITCHS - Touhou Immaterial And Missing Power
+  3. DANCE OF WITCHES - Touhou Immaterial And Missing Power
   4. MAGICIANS'S MELANCHOLY - Grimoire Of Marisa
   5. THE SEA THAT REFLECTS ONE'S HOME PLANET - Touhou Legacy of the Lunatic Kingdom
